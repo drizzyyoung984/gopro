@@ -28,7 +28,7 @@
 <hr>
 
 ## 📝 **Note**
-- This is a messenger chat bot using a personal account, using an [unofficial api](https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md) ([Origin here](https://github.com/Schmavery/facebook-chat-api)) and this may lead to facebook account being locked due to spam or other reasons. 
+- This is a messenger chat bot using a personal account, using an [unofficial api](https://github.com/drizzyyoung984/fb-chat-api/blob/master/DOCS.md) ([Origin here](https://github.com/Schmavery/facebook-chat-api)) and this may lead to facebook account being locked due to spam or other reasons. 
 - So, I recommend using a clone account (one that you're willing to throw away at any time)
 - ***I am not responsible for any problems that may arise from using this bot.***
 
@@ -217,7 +217,7 @@ If you have major coding issues with this bot, please join and ask for help.
 </details>
 
 ## ✨ **Copyright (C)**
-- **[NTKhang (NTKhang03)](https://github.com/ntkhang03)**
+- **[drizzy (NTKhang03)](https://github.com/drizzyyoung984)**
 
 ## 📜 **License**
 
